@@ -1,4 +1,14 @@
-## Hi there 👋
+## Jaimie Bowen - Aspiring Software Engineer 👋
+
+### About Me
+
+After 10+ years in Marketing, most recently as the Performance Marketing Director at GoPro, I have decided to pursue a career in Software Engineering. I am currently enrolled in the TripleTen Software Engineering Bootcamp to land a Full-Stack Engineering role after graduation.
+
+### What I'm working on
+- 
+
+### Languages and Tools
+
 
 <!--
 **jraebowen/jraebowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
