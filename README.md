@@ -2,14 +2,20 @@
 
 ### About Me
 
-After 10+ years in Marketing, most recently as the Performance Marketing Director at GoPro, I have decided to pursue a career in Software Engineering. I am currently enrolled in the TripleTen Software Engineering Bootcamp to land a Full-Stack Engineering role after graduation.
+After 10+ years in Marketing, most recently as the Performance Marketing Director at GoPro, I have decided to pursue a career in Software Engineering. I am currently enrolled in the TripleTen Software Engineering Bootcamp to land a Full-Stack Engineering role after graduation. A little more about me...
 
-### What I'm working on
+- I live in Los Angeles and am open to remote or in-person roles (local only)
+- I am open to internships or other opportunities to gain experience
+- I love to cook 🍴
+- I have two cats 😸😸
+- I am an early riser 🌞
+
+### What I'm working on right now
 - Improving Javascript knowledge
 - Next up: React, Node.js and Express.js
 
 ### Languages and Tools
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img alt="html5" width="40px" height="40px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </a>
 &nbsp;
@@ -40,8 +46,9 @@ After 10+ years in Marketing, most recently as the Performance Marketing Directo
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img alt="javascript" width="40px" height="40px" src="https://img.icons8.com/color/240/000000/javascript.png">
 </a>
+</p>
 
-### Contact
+### Contact 📫
 <a href="mailto:jraebowen@gmail.com">
 <img alt="Gmail" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"></a>
 &nbsp;
