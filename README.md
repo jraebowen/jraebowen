@@ -8,7 +8,12 @@ After 10+ years in Marketing, most recently as the Performance Marketing Directo
 - 
 
 ### Languages and Tools
-
+- HTML/CSS
+- Git
+- GitHub
+- VSCode
+- Figma
+- JavaScript
 
 <!--
 **jraebowen/jraebowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
