@@ -10,6 +10,13 @@ After 10+ years in Marketing, most recently as the Performance Marketing Directo
 - I have two cats 😸😸
 - I am an early riser 🌞
 
+**A little about my experience**
+- Management experience: Managed an internal team 4 and an external agency of 20+ team members
+- Collaboration and Project Management: Experience working cross-functionally with Data Engineers, Data Scientists, eCommerce teams to drive projects
+- Data-driven decision making: Experienced in analytics tools like GA and Looker Studio to inform decisions
+- Technical Communication: Comfortable presenting complex performance data to stakeholders
+- Tool Proficiency: Strong skills with a wide range of business tools such as GA, Looker Studio, Excel, Powerpoint, etc.
+
 ### What I'm working on right now
 - Improving Javascript knowledge
 - Next up: React, Node.js and Express.js
