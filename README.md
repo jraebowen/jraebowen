@@ -11,7 +11,9 @@ After 10+ years in Marketing, most recently as the Performance Marketing Directo
 - HTML/CSS
 - Git
 - GitHub
-- VSCode
+- [<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
 - Figma
 - JavaScript
 
