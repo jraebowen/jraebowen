@@ -8,22 +8,32 @@ After 10+ years in Marketing, most recently as the Performance Marketing Directo
 - 
 
 ### Languages and Tools
-[<code><img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code><img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code><img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code><img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code><img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code><img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code><img alt="figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-</code>](https://www.figma.com/files/team/1484327847165257125/recents-and-sharing?fuid=1484327843355542465)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img alt="html5" width=40px height=40px src="https://img.icons8.com/color/240/000000/html-5.png">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img alt="css" width=40px height=40px src="https://img.icons8.com/color/240/000000/css3.png">
+</a>
+<a href="https://git-scm.com/">
+<img alt="git" width=40px height=40px src="https://img.icons8.com/color/240/000000/git.png">
+</a>
+<a href="https://github.com/">
+<img alt="github" width=40px height=40px src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</a>
+<a href="https://code.visualstudio.com/">
+<img alt="vscode" width=40px height=40px src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png">
+</a>
+<a href="https://docs.microsoft.com/en-us/windows/terminal/">
+<img alt="terminal" width=40px height=40px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+</a>
+<a href="https://www.figma.com/files/team/1484327847165257125/recents-and-sharing?fuid=1484327843355542465">
+<img alt="figma" width=40px height=40px src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img alt="javascript" width=40px height=40px src="https://img.icons8.com/color/240/000000/javascript.png">
+</a>
+
+
 
 <!--
 **jraebowen/jraebowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
